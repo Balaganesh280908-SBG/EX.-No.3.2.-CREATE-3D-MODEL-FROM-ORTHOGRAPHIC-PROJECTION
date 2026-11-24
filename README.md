@@ -12,11 +12,11 @@ To create a 3D model from given orthographic projection.
 ## PROCEDURE:
 
 ## Step 1 
-     1. Draw a circle of diameter 220 mm with the origin as its centre.
-     2. Draw a line through the centre of the circle. 
-     3. Draw a rectangle of dimension 120 mm. 
-     4. Trim the excess parts.
-     5. Extrude it to 150 mm.
+      1.Draw a circle of diameter 220 mm with the origin as its centre.
+      2.Draw a line through the centre of the circle. 
+      3.Draw a rectangle of dimension 120 mm. 
+      4.Trim the excess parts.
+      5.Extrude it to 150 mm.
 
 # <img width="235" height="386" alt="image" src="https://github.com/user-attachments/assets/f0513263-03f4-46b7-ac3b-2874cd22f81a" />
 # <img width="206" height="282" alt="image" src="https://github.com/user-attachments/assets/1eb48142-6fad-44e8-97f3-87b012b02865" />
